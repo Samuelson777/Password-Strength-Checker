@@ -6,7 +6,7 @@ This tool helps users evaluate their password strength based on common security 
 ## Demo
 
 You can try it live on GitHub Pages :  
-`https://samuelson777.github.io/Password-Strength-Checker/`
+`https://samuelson777.github.io/Password-Strength-Checker/` or [CLICK HERE](https://samuelson777.github.io/Password-Strength-Checker/)
 
 ## Example Screenshots
 
